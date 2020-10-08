@@ -2,7 +2,7 @@ Excel to Json conversion:
 
 Inputs: excelfile path, jsonfile path, customer id, request type, language
 
-Output: josn format 
+Output: Josn format 
 
 
 1. Create the excel file, refer: products_detail 
