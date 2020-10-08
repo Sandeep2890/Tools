@@ -1,0 +1,451 @@
+{
+   "customerid": "mycust123",
+   "requesttype": "ecom",
+   "catalogue": [
+      {
+         "lang": "en",
+         "products": [
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Electronics",
+               "subcategory": "Men Fashion",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Peter England"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "13 inch depth, 30inch width, plastic table"
+                  }
+               ],
+               "name": "Table",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Fashion",
+               "subcategory": "Women Fasion",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Levis"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Brown"
+                  },
+                  {
+                     "name": "info",
+                     "value": "ultra HD 3820x2140 pixcels"
+                  }
+               ],
+               "name": "Television",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Stationary",
+               "subcategory": "Mobiles",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Jio"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "leather with 5 card slots"
+                  }
+               ],
+               "name": "Wallets",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "School products",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Nokia"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Dark blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "digital display type, casual"
+                  }
+               ],
+               "name": "Watch",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Samsung"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Silver"
+                  },
+                  {
+                     "name": "info",
+                     "value": "storage:128 GB, 4GB ram"
+                  }
+               ],
+               "name": "Mobile",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Whirlpool"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "portable, thin and light laptop"
+                  }
+               ],
+               "name": "Laptop",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Godrej"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Sky blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "nonstick plate"
+                  }
+               ],
+               "name": "Iron box",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Sony"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "removable cover"
+                  }
+               ],
+               "name": "Bed",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "LG"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Dark green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "wodden"
+                  }
+               ],
+               "name": "Chair",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Reynolds"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Black"
+                  },
+                  {
+                     "name": "info",
+                     "value": "wodden, blackcolor, 6 feet"
+                  }
+               ],
+               "name": "Room divider",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Camlin"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "42.4MP full-frame cmos sensor, upto 10fps with AF tracking "
+                  }
+               ],
+               "name": "Camera",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "SanDisk"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Gray"
+                  },
+                  {
+                     "name": "info",
+                     "value": "seeling fan, table fan"
+                  }
+               ],
+               "name": "Fan",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "HP"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "1ltr, 2ltr, 5ltr and 10ltr, aluminium pressure cooker"
+                  }
+               ],
+               "name": "Cooker",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Kingston"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "medium size, synthetic material"
+                  }
+               ],
+               "name": "Footwear",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Toshiba"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "cotton and fullhand"
+                  }
+               ],
+               "name": "Shirt",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "multi satge purification"
+                  }
+               ],
+               "name": "Purifier",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "ideal for smartphones and tablets"
+                  }
+               ],
+               "name": "Memory card",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "dustless"
+                  }
+               ],
+               "name": "Eraser",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "suitable for casual occations"
+                  }
+               ],
+               "name": "Gown",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "suitable for casual occations"
+                  }
+               ],
+               "name": "Jacket",
+               "description": "some description coming from backend(python) side about this"
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Glue",
+               "description": "some description coming from backend(python) side about this"
+            }
+         ]
+      }
+   ]
+}
