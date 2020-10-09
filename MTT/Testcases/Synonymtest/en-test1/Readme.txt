@@ -1,6 +1,6 @@
 Triggering get request and verify the responses with expected(Actual) responses
 
-Input: configuration file path
+Input: Configuration file path
 Output: Excel file 
 
 1. Create text file with utterances. 
