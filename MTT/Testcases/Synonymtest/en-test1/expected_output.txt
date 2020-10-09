@@ -1,0 +1,100 @@
+{"fields": {"Color": ["white"], "entities": ["color"], "name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"Color": ["red"], "name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"Color": ["blue"], "name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"Color": ["black"], "entities": ["color"], "name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"name": ["desk", "writing desk", "davenport", "table"]}}
+{"fields": {"name": ["desk", "writing desk", "davenport", "table"]}}
+{"fields": {"name": ["small screen", "TV", "television"]}}
+{"fields": {"brand": ["samsung"], "name": ["small screen", "TV", "television"]}}
+{"fields": {"brand": ["itel"], "name": ["tv"]}}
+{"fields": {"name": ["frock"]}}
+{"fields": {"name": ["frock"]}}
+{"fields": {"Color": ["blue"], "name": ["frock"]}}
+{"fields": {"entitis": ["ajanta"], "name": ["wristwatch", "clock", "analog watch", "watch"]}}
+{"fields": {"brand": ["peter england"], "name": ["tunic", "polo", "jersey", "pullover", "shirt", "turtleneck"]}}
+{"fields": {"name": ["water purifier", "filters", "refiner", "purifiction divices", "cleaning agent", "purifier"]}}
+{"fields": {"brand": ["sandisk"], "name": ["data card", "memory card", "storage card", "smart card", "pendrive", "SD card"]}}
+{"fields": {"brand": ["camlin"], "name": ["eraser", "rubber"]}}
+{"fields": {"name": ["frock", "gown"]}}
+{"fields": {"Color": ["black"], "brand": ["levis"], "name": ["outfit", "suit", "jacket", "coat "]}}
+{"fields": {"name": ["favicol", "gum", "glue", "favistick"]}}
+{"fields": {"name": ["cabinet", "wardrobe", "armoire", "cupboard", "lockar"]}}
+{"fields": {"name": ["desk", "writing desk", "davenport", "table"]}}
+{"fields": {"brand": ["sony"], "name": ["small screen", "TV", "television"]}}
+{"fields": {"name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"brand": ["titan"], "name": ["wristwatch", "clock", "analog watch", "watch"]}}
+{"fields": {"brand": ["nokia"], "name": ["mobile", "cell", "cellphone", "portable telephone", "telephone", "wireless phone"]}}
+{"fields": {"brand": ["Acer"], "name": ["laptop", "computer", "notebook computer", "palmtop", "desktop"]}}
+{"fields": {"brand": ["orpat"], "entities": ["steem"], "name": ["electonic iron", "pressing iron", "cloth iron", "press", "iron box"]}}
+{"fields": {"name": ["crib", "couch", "cot ", "bed", "mattress"]}}
+{"fields": {"brand": ["neelkamal"], "name": ["chair", "bench", "seat"]}}
+{"fields": {"name": ["room divider", "sliding doors", "seperator", "partitioner", "screens", "dividing wall"]}}
+{"fields": {"brand": ["nikon"], "name": ["photomicroscope", "camera", "magnifier"]}}
+{"fields": {"brand": ["usha"], "entities": ["brand"], "name": ["fan", "aircooler", "punkah"]}}
+{"fields": {"brand": ["prestige"], "entities": ["brand"], "name": ["cooking pot", "presure cooker", "cooker"]}}
+{"fields": {"brand": ["vkc stile"], "name": ["footwear", "slippers", "heels", "brogans", "sandals", "boots"]}}
+{"fields": {"color": ["light green"], "name": ["tunic", "polo", "jersey", "pullover", "shirt", "turtleneck"]}}
+{"fields": {"brand": ["aruasure"], "name": ["water purifier", "filters", "refiner", "purifiction divices", "cleaning agent", "purifier"]}}
+{"fields": {"name": ["data card", "memory card", "storage card", "smart card", "pendrive", "SD card"]}}
+{"fields": {"name": ["eraser", "rubber"]}}
+{"fields": {"Color": ["black"], "entities": ["color"], "name": ["frock", "gown"]}}
+{"fields": {"info": ["cotton"], "Color": ["brown"], "entities": ["color"], "name": ["outfit", "suit", "jacket", "coat "]}}
+{"fields": {"info": ["wood glue"]}}
+{"fields": {"name": ["cabinet", "wardrobe", "armoire", "cupboard", "lockar"]}}
+{"fields": {"entities":["dining"], "name": ["desk", "writing desk", "davenport", "table"]}}
+{"fields": {"brand": ["panasonic"], "name": ["small screen", "TV", "television"]}}
+{"fields": {"info": ["cotton"], "Color": ["black"], "name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"name": ["wristwatch", "clock", "analog watch", "watch"]}}
+{"fields": {"brand": ["itel"], "name": ["mobile", "cell", "cellphone", "portable telephone", "telephone", "wireless phone"]}}
+{"fields": {"brand": ["hp"], "entities": ["brand"], "name": ["laptop", "computer", "notebook computer", "palmtop", "desktop"]}}
+{"fields": {"brand": ["orpat"], "entities": ["brand"], "name": ["electonic iron", "pressing iron", "cloth iron", "press", "iron box"]}}
+{"fields": {"name": ["cot"]}}
+{"fields": {"name": ["chair", "bench", "seat"]}}
+{"fields": {"name": ["room divider", "sliding doors", "seperator", "partitioner", "screens", "dividing wall"]}}
+{"fields": {"brand": ["canon"], "name": ["photomicroscope", "camera", "magnifier"]}}
+{"fields": {"brand": ["bajaj"], "entities": ["celing"], "name": ["fan", "aircooler", "punkah"]}}
+{"fields": {"info": ["induction base"], "name": ["cooking pot", "presure cooker", "cooker"]}}
+{"fields": {"name": ["footwear", "slippers", "heels", "brogans", "sandals", "boots"]}}
+{"fields": {"name": ["tunic", "polo", "jersey", "pullover", "shirt", "turtleneck"]}}
+{"fields": {"brand": ["aquagurd"], "name": ["water purifier", "filters", "refiner", "purifiction divices", "cleaning agent", "purifier"]}}
+{"fields": {"name": ["data card", "memory card", "storage card", "smart card", "pendrive", "SD card"]}}
+{"fields": {"name": ["eraser", "rubber"]}}
+{"fields": {"entities": ["rose", "color"], "name": ["Gown"]}}
+{"fields": {"brand": ["wildcraft"], "name": ["outfit", "suit", "jacket", "coat "]}}
+{"fields": {"name": ["favicol", "glue", "favistick", "gum", "coat"]}}
+{"fields": {"name": ["cabinet", "wardrobe", "armoire", "cupboard", "lockar"]}}
+{"fields": {"brand": ["neelkamal"], "name": ["computer", "desk", "writing desk", "davenport", "table"]}}
+{"fields": {"entities": ["43", "inches"], "name": ["small screen", "TV", "television"]}}
+{"fields": {"name": ["notecase", "pouch", "purse", "wallets", "pocketbook"]}}
+{"fields": {"brand": ["sonata"], "name": ["wristwatch", "clock", "analog watch", "watch"]}}
+{"fields": {"brand": ["samsung"], "name": ["mobile", "cell", "cellphone", "portable telephone", "telephone", "wireless phone"]}}
+{"fields": {"brand": ["dell"], "name": ["laptop", "computer", "notebook computer", "palmtop", "desktop"]}}
+{"fields": {"brand": ["bajaj"], "name": ["electonic iron", "pressing iron", "cloth iron", "press", "iron box"]}}
+{"fields": {"brand": ["sleepwell"], "name": ["mattress"]}}
+{"fields": {"info": ["wodden"], "name": ["bench"]}}
+{"fields": {"info": ["wodden"], "name": ["room divider", "sliding doors", "seperator", "partitioner", "screens", "dividing wall"]}}
+{"fields": {"brand": ["sony"], "name": ["photomicroscope", "camera", "magnifier"]}}
+{"fields": {"brand": ["cropton"], "name": ["aircooler"]}}
+{"fields": {"brand": ["hawkins"], "entities": ["brand"], "name": ["cooking pot", "presure cooker", "cooker"]}}
+{"fields": {"brand": ["bata"],"entities": ["shoes"]}}
+{"fields": {"color": ["print blue"], "name": ["tunic", "polo", "jersey", "pullover", "shirt", "turtleneck"]}}
+{"fields": {"brand": ["philips"], "name": ["water purifier", "filters", "refiner", "purifiction divices", "cleaning agent", "purifier"]}}
+{"fields": {"brand": ["samsung"], "name": ["data card", "memory card", "storage card", "smart card", "pendrive", "SD card"]}}
+{"fields": {"entities": ["nataraj"], "name": ["eraser", "rubber"]}}
+{"fields": {"Color": ["purple"], "entities": ["color"], "name": ["frock", "gown"]}}
+{"fields": {"entities": ["jeans"], "name": ["outfit", "suit", "jacket", "coat "]}}
+{"fields": {"Color": ["white"], "brand": ["camlin"], "name": ["favicol", "gum", "glue", "favistick"]}}
+{"fields": {"brand": ["preethi"], "entities": ["brand"], "name": ["cooking pot", "presure cooker", "cooker"]}}
+{"fields": {"brand": ["paragon"], "name": ["footwear", "slippers", "heels", "brogans", "sandals", "boots"]}}
+{"fields": {"Color": ["white"], "entities": ["color"], "name": ["tunic", "polo", "jersey", "pullover", "shirt", "turtleneck"]}}
+{"fields": {"brand": ["kent"], "name": ["filters"]}}
+{"fields": {"brand": ["sandisk"], "name": ["data card"]}}
+{"fields": {"brand": ["apsara"], "name": ["eraser", "rubber"]}}
+{"fields": {"Color": ["pink"], "entities": ["color"], "name": ["frock", "gown"]}}
+{"fields": {"Color": ["blue"], "entities": ["color"], "name": ["suit"]}}
+{"fields": {"entities":"stick", "name": ["favicol", "gum", "glue", "favistick"]}}
+{"fields": {"brand": ["pegion"], "name": ["cooking pot", "presure cooker", "cooker"]}}
+{"fields": {"brand": ["sparx"], "name": ["sandals"]}}

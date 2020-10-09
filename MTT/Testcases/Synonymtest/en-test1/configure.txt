@@ -1,0 +1,25 @@
+# lang is Language
+
+# url 
+
+# utterences file path, which contains test utterences
+
+# File path for expected responses for the utterences in the utterences file.
+
+# Text file path to store response for get request data (optional)  
+
+# Excelpath to store the results and compare the results
+
+
+
+lang = en
+
+url = http://semantic.lifedata.ai:8085/v1/ldnlu/ecom/customer/mshoppi/job/103
+
+utt_file = C:\Users\Sandeep pai\Desktop\MTT\Testcases\Synonymtest\en-test1\utterances.txt
+
+out_file = C:\Users\Sandeep pai\Desktop\output.txt
+
+expected_file = C:\Users\Sandeep pai\Desktop\MTT\Testcases\Synonymtest\en-test1\expected_output.txt
+
+excel_path = C:\Users\Sandeep pai\Desktop\MTT\Testcases\Synonymtest\en-test1\output.xlsx

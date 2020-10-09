@@ -1,0 +1,1073 @@
+{
+   "customerid": "mshoppi",
+   "requesttype": "ecom",
+   "catalogue": [
+      {
+         "lang": "en",
+         "products": [
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Puma"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "cupboard",
+                  "lockar",
+                  "cabinet",
+                  "armoire"
+               ]
+            },
+            {
+               "category": "Electronics",
+               "subcategory": "Men Fashion",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Peter England"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "13 inch depth, 30inch width, plastic table"
+                  }
+               ],
+               "name": "Table",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "desk",
+                  "writing desk",
+                  "davenport"
+               ]
+            },
+            {
+               "category": "Fashion",
+               "subcategory": "Women Fasion",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Levis"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Brown"
+                  },
+                  {
+                     "name": "info",
+                     "value": "ultra HD 3820x2140 pixcels"
+                  }
+               ],
+               "name": "Television",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "TV",
+                  "small screen"
+               ]
+            },
+            {
+               "category": "Stationary",
+               "subcategory": "Mobiles",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Jio"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "leather with 5 card slots"
+                  }
+               ],
+               "name": "Wallets",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "purse",
+                  "pouch",
+                  "pocketbook",
+                  "notecase"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "School products",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Nokia"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Dark blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "digital display type, casual"
+                  }
+               ],
+               "name": "Watch",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "clock",
+                  "wristwatch",
+                  "analog watch"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Samsung"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Silver"
+                  },
+                  {
+                     "name": "info",
+                     "value": "storage:128 GB, 4GB ram"
+                  }
+               ],
+               "name": "Mobile",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "cell",
+                  "cellphone",
+                  "portable telephone",
+                  "telephone",
+                  "wireless phone"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Whirlpool"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "portable, thin and light laptop"
+                  }
+               ],
+               "name": "Laptop",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "computer",
+                  "desktop",
+                  "palmtop",
+                  "notebook computer"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Godrej"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Sky blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "nonstick plate"
+                  }
+               ],
+               "name": "Iron box",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "press",
+                  "electonic iron",
+                  "cloth iron",
+                  "pressing iron"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Sony"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "removable cover"
+                  }
+               ],
+               "name": "Bed",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "cot ",
+                  "couch",
+                  "crib",
+                  "mattress"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "LG"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Dark green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "wodden"
+                  }
+               ],
+               "name": "Chair",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "bench",
+                  "seat"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Reynolds"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Black"
+                  },
+                  {
+                     "name": "info",
+                     "value": "wodden, blackcolor, 6 feet"
+                  }
+               ],
+               "name": "Room divider",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "partitioner",
+                  "dividing wall",
+                  "seperator",
+                  "sliding doors",
+                  "screens"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Camlin"
+                  },
+                  {
+                     "name": "color",
+                     "value": "White"
+                  },
+                  {
+                     "name": "info",
+                     "value": "42.4MP full-frame cmos sensor, upto 10fps with AF tracking "
+                  }
+               ],
+               "name": "Camera",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "magnifier",
+                  "photomicroscope"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "SanDisk"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Gray"
+                  },
+                  {
+                     "name": "info",
+                     "value": "seeling fan, table fan"
+                  }
+               ],
+               "name": "Fan",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "aircooler",
+                  "punkah"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "HP"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "1ltr, 2ltr, 5ltr and 10ltr, aluminium pressure cooker"
+                  }
+               ],
+               "name": "Cooker",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "cooking pot",
+                  "presure cooker"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Kingston"
+                  },
+                  {
+                     "name": "color",
+                     "value": "light green"
+                  },
+                  {
+                     "name": "info",
+                     "value": "medium size, synthetic material"
+                  }
+               ],
+               "name": "Footwear",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "boots",
+                  "slippers",
+                  "sandals",
+                  "brogans",
+                  "heels"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Toshiba"
+                  },
+                  {
+                     "name": "color",
+                     "value": "print blue"
+                  },
+                  {
+                     "name": "info",
+                     "value": "cotton and fullhand"
+                  }
+               ],
+               "name": "Shirt",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "jersey",
+                  "pullover",
+                  "tunic",
+                  "turtleneck",
+                  "polo"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "camlin"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "multi satge purification"
+                  }
+               ],
+               "name": "Purifier",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "cleaning agent",
+                  "filters",
+                  "refiner",
+                  "water purifier",
+                  "purifiction divices"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Titan"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "ideal for smartphones and tablets"
+                  }
+               ],
+               "name": "Memory card",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "storage card",
+                  "smart card",
+                  "data card",
+                  "SD card",
+                  "pendrive"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "nokia"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "dustless"
+                  }
+               ],
+               "name": "Eraser",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "rubber"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Neelkamal"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "suitable for casual occations"
+                  }
+               ],
+               "name": "Gown",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "frock"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "usha"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "suitable for casual occations"
+                  }
+               ],
+               "name": "Jacket",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "suit",
+                  "outfit",
+                  "coat "
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "VKC Stile"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "wood glue"
+                  }
+               ],
+               "name": "Glue",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": [
+                  "gum",
+                  "favicol",
+                  "favistick"
+               ]
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "aruasure"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "induction base"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "prestige"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "panasonic"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Itel"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "orpat"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "canon"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "bajaj"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "nikon"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "aquagurd"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "wildcraft"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "sonata"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "dell"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "sleepwell"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "cropton"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Hawkins"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "bata"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "Philips"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "preethi"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "camlin"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "paragon"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "kent"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "apsara"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "pegion "
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            },
+            {
+               "category": "Home Appliances",
+               "subcategory": "Home decore",
+               "fields": [
+                  {
+                     "name": "brand",
+                     "value": "sparx"
+                  },
+                  {
+                     "name": "color",
+                     "value": "Red"
+                  },
+                  {
+                     "name": "info",
+                     "value": "Crystal Furnitech wood cupboard"
+                  }
+               ],
+               "name": "Wardrobe",
+               "description": "some description coming from backend(python) side about this",
+               "synonyms": []
+            }
+         ]
+      }
+   ]
+}
